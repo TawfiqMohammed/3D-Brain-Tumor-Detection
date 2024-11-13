@@ -1,6 +1,7 @@
 # 3D MRI Brain Tumor Segmentation using U-Net
 
-<https://media1.tenor.com/images/15427ffc1399afc3334f12fd27549a95/tenor.gif?itemid=20554734">
+![test_gif_BraTS20_Training_001_flair](https://github.com/user-attachments/assets/687109a0-40e3-4a57-9540-7716af22875b)
+
 This notebook demonstrates how to build, train, and evaluate a 3D U-Net model for brain tumor segmentation using MRI images. U-Net is a convolutional neural network architecture designed specifically for medical image segmentation tasks.
 
 ## Project Overview
@@ -66,7 +67,7 @@ To adapt this notebook for your specific dataset:
 ## Acknowledgements
 
 - The U-Net architecture was originally introduced in the paper "U-Net: Convolutional Networks for Biomedical Image Segmentation" by Olaf Ronneberger et al.
-- MRI dataset was sourced from BraTS2020 Dataset - [text](https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation).
+- MRI dataset was sourced from BraTS2020 Dataset - [Link](https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation).
   
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
